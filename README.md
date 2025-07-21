@@ -13,3 +13,13 @@ Auto-Refresh:Logs + chart update every 5 seconds via setInterval
 Task Filter:Dropdown lists unique tasks; updates table/chart
 
 Charts:Mini pie-chart shows distribution of task statuses (completed/failed/in-progress)
+
+## Technical Highlights
+
+FastAPI for quick REST setup
+
+React + Axios + Chart.js = responsive UI
+
+Simple OAuth2 simulation
+
+SQLite + SQLAlchemy = easy DB layer
