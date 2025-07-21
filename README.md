@@ -3,3 +3,13 @@
 ### Provide role-based filtering (Admin sees all; Employee only their robots)
 ### Enable task-type filtering via dropdown
 ### Visualize task statuses dynamically
+
+## 📦 Features & Implementation
+
+Role-Based Access:Admin: all logsEmployee: only assigned robots
+
+Auto-Refresh:Logs + chart update every 5 seconds via setInterval
+
+Task Filter:Dropdown lists unique tasks; updates table/chart
+
+Charts:Mini pie-chart shows distribution of task statuses (completed/failed/in-progress)
